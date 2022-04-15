@@ -55,7 +55,7 @@ git clone https://github.com/Khalid2009sm/2009-Account-Cloner
 #### RUN SCRIPT
 ```python
 cd 2009-Account-Cloner
-python2 2004-2009-dec_enc.pyc.py
+python2 2004-2009-dec_enc.pyc
 ```
 # SEE THE PROOF
 ![](https://f.top4top.io/p_22821yj5o0.jpg)
